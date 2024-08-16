@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-I take great joy in being a researcher and scholar who is sensitive to the needs of my students. Most recently, I have taught:
+Most recently, I have taught:
 
 ### Spring 2024 (University of Rochester)
 
