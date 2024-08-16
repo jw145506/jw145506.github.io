@@ -6,7 +6,7 @@ layout: page
 title: About
 ---
 
-![Dr. J.C. Wamsley](/assets/img/wamsley_pic.jpg "photo credit: Sihui He")
+![Dr. J.C. Wamsley](assets/img/wamsley_pic.jpg "photo credit: Sihui He")
 
 I am currently a Visiting Assistant Professor in the Linguistics Department at the University of Rochester. My research interests (broadly) include semantics, pragmatics, morphology, and language documentation.
 
