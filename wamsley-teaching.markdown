@@ -8,7 +8,7 @@ Most recently, I have taught:
 
 ### Fall 2024 (University of Rochester)
 
- - LING 104: Language & Culture
+ - LING 104: Language and Culture
 
  - LING 225/425: Introduction to Semantic Analysis
 
