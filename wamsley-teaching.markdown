@@ -6,6 +6,12 @@ permalink: /teaching
 
 Most recently, I have taught:
 
+### Fall 2024 (University of Rochester)
+
+ - LING 104: Language & Culture
+
+ - LING 225/425: Introduction to Semantic Analysis
+
 ### Spring 2024 (University of Rochester)
 
  - LING 110: Introduction to Linguistic Analysis
