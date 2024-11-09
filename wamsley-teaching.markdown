@@ -27,7 +27,7 @@ Most recently, I have taught:
 ### Upcoming Spring 2025
 
  - LING 110: Introduction to Linguistic Analysis
- - 
+  
  - LING 389: Senior Seminar in Fieldwork for Language Documentation
  
  
