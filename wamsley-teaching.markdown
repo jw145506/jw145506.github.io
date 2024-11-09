@@ -23,5 +23,11 @@ Most recently, I have taught:
  - LING 104: Language and Culture
 
  - LING 226/426: Morphology
+
+### Upcoming Spring 2025
+
+ - LING 110: Introduction to Linguistic Analysis
+ - 
+ - LING 389: Senior Seminar in Fieldwork for Language Documentation
  
  
