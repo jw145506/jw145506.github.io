@@ -15,9 +15,9 @@ permalink: /research
 
 - "Indices as Syntactic Objects: A Case Study from Hakha Lai" presented at SEALS 33 [handout](assets/pdf/wamsley_seals33)
 
-- "The Pragmatic Distrubution of Personal Pronouns in Falam Chin" presented at SEALS 34 [handout] (assets/pdf/wamsley_2025_seals34_slides_final)
+- "The Pragmatic Distribution of Personal Pronouns in Falam Chin" presented at SEALS 34 [handout](assets/pdf/wamsley_2025_seals34_slides_final)
 
-- "The Pragmatic Distribution of Personal Pronouns in Falam Chin" presented at the International Pragmatics Conference 19 [poster] (assets/pdf/wamsley_2025_falam_pronouns_poster_ipra_19)
+- "The Pragmatic Distribution of Personal Pronouns in Falam Chin" presented at the International Pragmatics Conference 19 [poster](assets/pdf/wamsley_2025_falam_pronouns_poster_ipra_19)
 
 
 ### Dissertation
