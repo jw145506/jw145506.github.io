@@ -4,7 +4,6 @@ title: Research
 permalink: /research
 ---
 
-(updates in progress)
 
 ### Papers
 
