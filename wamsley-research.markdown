@@ -12,6 +12,8 @@ permalink: /research
 
 ### Talks & Presentations
 
+- "The Hakha Lai Discourse Particle ko" presented at DiPSAL 2025 [handout] (assets/pdf/dipsal_slides_final.pdf)
+
 - "Indices as Syntactic Objects: A Case Study from Hakha Lai" presented at SEALS 33 [handout](assets/pdf/wamsley_seals33.pdf)
 
 - "The Pragmatic Distribution of Personal Pronouns in Falam Chin" presented at SEALS 34 [handout](assets/pdf/wamsley_2025_seals34_slides_final.pdf)
