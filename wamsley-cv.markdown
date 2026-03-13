@@ -4,4 +4,4 @@ title: CV
 permalink: /cv
 ---
 
-Available here: [CV (Summer 2024)](assets/pdf/wamsley_cv_summer24.pdf)
+Available here: [CV (Spring 2026)](assets/pdf/wamsley_cv_sp26.pdf)
